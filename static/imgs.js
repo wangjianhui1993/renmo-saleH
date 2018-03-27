@@ -1,0 +1,34 @@
+/**
+ * Created by wjh on 2018/3/27.
+ */
+window.imgs=[
+  {pgimg:'./static/imgs/001.jpg'},
+  {pgimg:'./static/imgs/002.jpg'},
+  {pgimg:'./static/imgs/003.jpg'},
+  {pgimg:'./static/imgs/004.jpg'},
+  {pgimg:'./static/imgs/005.jpg'},
+  {pgimg:'./static/imgs/006.jpg'},
+  {pgimg:'./static/imgs/007.jpg'},
+  {pgimg:'./static/imgs/008.jpg'},
+  {pgimg:'./static/imgs/009.jpg'},
+  {pgimg:'./static/imgs/010.jpg'},
+  {pgimg:'./static/imgs/011.jpg'},
+  {pgimg:'./static/imgs/012.jpg'},
+  {pgimg:'./static/imgs/013.gif'},
+  {pgimg:'./static/imgs/014.gif'},
+  {pgimg:'./static/imgs/015.gif'},
+  {pgimg:'./static/imgs/016.gif'},
+  {pgimg:'./static/imgs/017.gif'},
+  {pgimg:'./static/imgs/018.gif'},
+  {pgimg:'./static/imgs/019.gif'},
+  {pgimg:'./static/imgs/021.jpg'},
+  {pgimg:'./static/imgs/022.jpg'},
+  {pgimg:'./static/imgs/023.jpg'},
+  {pgimg:'./static/imgs/024.jpg'},
+  {pgimg:'./static/imgs/025.jpg'},
+  {pgimg:'./static/imgs/026.jpg'},
+  {pgimg:'./static/imgs/027.jpg'},
+  {pgimg:'./static/imgs/028.jpg'},
+  {pgimg:'./static/imgs/029.jpg'}
+
+]
